@@ -1,6 +1,8 @@
 # tagainijisho-build
 Unofficial unstable Windows builds with recent definitions for the beloved dictionary application
 
+# As a result of the original developer continuing builds, this is archived. Thanks Gnurou!
+
 Original repository: https://github.com/Gnurou/tagainijisho
 
 Visit [releases](../../releases) page for the builds.  
